@@ -1,0 +1,1 @@
+Credit card fraud detection using classic ML (Logistic Regression, Random Forest, XGBoost) on a highly imbalanced dataset (0.17% fraud). Includes class imbalance handling, threshold optimization, and SHAP explainability.
